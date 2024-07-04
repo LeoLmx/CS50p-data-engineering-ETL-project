@@ -1,4 +1,4 @@
-# CS50P-data-engineering-ETL-project
+# cs50p-data-engineering-etl-project
 
 This is the final assignment for the CS50p programming in Python. You have to make a code that has three functions and a main function along with the testing code.
 
